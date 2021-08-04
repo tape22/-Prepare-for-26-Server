@@ -31,19 +31,10 @@
 	- 체계적인 폴더링 해보기
 
 
-### 03. REST API와 node.js
+### 03. REST API와 node.js [🔗](https://github.com/tape22/Prepare_for_26_Server/blob/master/03.%20REST%20API.md)
 	- REST API란?
 	- URI와 URL
 	- CRUD와 METHOD
 	- 그래서 node.js 는 무엇인가?
 	- 키워드 별로 알아보자
 	
-	
-### 04. AWS EC2와 RDS 사용하기
-	- 과금 안나게 AWS세팅하기
-	- EC2 생성과 삭제,분리하기
-	- EC2로 서버 코드 배포하기
-	- RDS 생성하고 삭제하기
-	- RDS 테이블 만드는 법
-	
-### 05. S3와 multer, DB 맛보기
